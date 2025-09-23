@@ -43,5 +43,3 @@ def print_prime_factors(n):
             i += 1
         
         print(f"{init_num} = {output}")
-
-print_prime_factors(2475)
